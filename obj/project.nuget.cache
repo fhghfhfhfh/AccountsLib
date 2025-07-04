@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j5Jxb9lZiVI=",
+  "success": true,
+  "projectFilePath": "/media/maxim/1ED478B712016031/AccountLib/AccountLib.csproj",
+  "expectedPackageFiles": [
+    "/home/maxim/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
